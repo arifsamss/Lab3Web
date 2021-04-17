@@ -47,7 +47,7 @@ Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered l
 </ul>
 </section>
 ~~~
-![Uploading 3.JPG…]()
+![3](https://user-images.githubusercontent.com/81839328/115114141-e4b79480-9fb7-11eb-8991-a378b449b8d3.JPG)
 # 4.Membuat Description List
 Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list
 ~~~
